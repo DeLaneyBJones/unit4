@@ -1,6 +1,6 @@
 +++
 date = "2016-05-05T08:41:21-04:00"
-draft = true
+draft = false
 title = ""
 categories = ["Reading"]
 categories_weight = 6

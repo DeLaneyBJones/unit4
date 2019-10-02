@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Unit 4 LOLCode Documentation</title>
+    <link>/categories/math/</link>
+    <description>Recent content in Math on Unit 4 LOLCode Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 08:41:21 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/lolcode/mathsection/</link>
+      <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
+      
+      <guid>/lolcode/mathsection/</guid>
+      <description>This is the math category</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>/lolcode/math1/</link>
+      <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
+      
+      <guid>/lolcode/math1/</guid>
+      <description>This is the first item in the math category</description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>/lolcode/math2/</link>
+      <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
+      
+      <guid>/lolcode/math2/</guid>
+      <description>This is the second item in the math category</description>
+    </item>
+    
+  </channel>
+</rss>
